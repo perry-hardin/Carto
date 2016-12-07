@@ -8,7 +8,7 @@ namespace Carto
 {
     /// <summary>
     /// Extension of .NET BinaryReader that can swap bytes
-    /// to/from BigEndian to/from LittleEndian
+    /// to/from BigEndian to/from LittleEndian (PC / DEC)
     /// </summary>
     public class BinReader
     {
